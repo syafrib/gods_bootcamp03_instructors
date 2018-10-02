@@ -1,6 +1,6 @@
 
-Breakdown per session 
-Wednesday, 3rd of October 2018
+# Breakdown per session 
+## Wednesday, 3rd of October 2018
 - @Syafri B To introduce everyone and what the Bootcamp schedule looks like + Instructions 10 mins
 - C1: Intro to Gojek Data Science   (@Maneesh M)
 - C2: Enter DS techniques
@@ -21,7 +21,8 @@ Wednesday, 3rd of October 2018
   - Heuristic to solve Housing Price prediction (dataset from day 3)  (@Ardya D @Anthony T )
     - using linear regression
   - Housing Price prediction problem - Data Exploration in pairs  (@Ardya D @Anthony T ) 
-Thursday, 4th of October 2018
+
+## Thursday, 4th of October 2018
 
 
 - C1 : KNN / Decision Tree (@Anthony T)
@@ -36,7 +37,8 @@ Thursday, 4th of October 2018
     - Multi-variable 
   - Calculating the best estimator analytically 
 - C4 : Exercises time! @Syafri B @Anthony T 
-Friday, 5th of October 2018
+
+## Friday, 5th of October 2018
 
 C1 - C4: Mini - Kaggle
 Dataset:
