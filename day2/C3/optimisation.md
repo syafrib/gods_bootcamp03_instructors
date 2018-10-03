@@ -9,7 +9,7 @@ We want to find $a$ and $b$ which minimize the sum square errors $J$ which is gi
 $$ J(a,b) =\frac{1}{2} \sum_{i=1}^{n} (y_i-(ax_i+b))^2$$
 
 --- 
-# Next
+# The build-up
 
 We are going to find $a$ and $b$ which minimize $J(a,b)$ in three different ways: 
 - Numerically with Excel + Solver 
