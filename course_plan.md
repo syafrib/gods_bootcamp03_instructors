@@ -1,3 +1,13 @@
+# Introduction
+
+- Who are the instructors? 
+- Objectives
+- Structure of the DS bootcamp
+- Ground Rules: 
+   - Ask Questions (but first google them) 
+   - Code convention (Exploratory vs Productionisation)
+
+
 
 # Breakdown per session 
 ## Wednesday, 3rd of October 2018
