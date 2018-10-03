@@ -3,6 +3,8 @@
 - Who are the instructors? 
 - Objectives
 - Structure of the DS bootcamp
+  - Mix of theory (intuition) and lab
+  - Soft skills --> hard skills
 - Ground Rules: 
    - Ask Questions (but first google them) 
    - Code convention (Exploratory vs Productionisation)
