@@ -11,17 +11,20 @@ $$ J(a,b) =\frac{1}{2} \sum_{i=1}^{n} (y_i-(ax_i+b))^2$$
 --- 
 # The build-up
 
-We are going to find $a$ and $b$ which minimize $J(a,b)$ in three different ways: 
-- Numerically with Excel + Solver 
-- Analytically with Python Numpy 
-- Gradient Descent (will be calculated by you) 
+- Interactively create a dummy data in excel (data **A**)
+- Visualise how different choices of slopes and intercept will affect the error
+- Gradient descent applied to one variable function 
+- Gradient descent applied to two variables function (using **A**) 
+- How can we check our results numerically? 
+- **Exercise**: Using the built-up knowledge so far to estimate the coeffients of: 
+	- linear regression on real dataset. 
+	- logistic regression on real dataset. 
 
----
-# Numerically with Excel 
-- One variable linear regression
+
+*Note: This will combine Excel. Pandas, Numpy, and Basic Math knowledge*
+
 ---
 # Matrix Representation 
-
 Recall that we would like to minimize 
 $$ J(a,b) = \frac{1}{2} \sum_{i=1}^{n} (y_i-(ax_i+b))^2$$
 
@@ -68,13 +71,12 @@ $$ \frac{\partial J}  {\partial a} =  \sum_{i=1}^{n} (y_i-(ax_i+b)) (-x_i) $$
 and 
 $$ \frac{\partial J}  {\partial b} =  \sum_{i=1}^{n} (y_i-(ax_i+b)) (-1) $$
 
----
-
-** Graph of J as function of $a$ and $b$ ** 
 
 ---
 # Differences between Convex vs Non-Convex 
-** Picture here ** 
+
+![link](convex_vs_non_convex.jpg)
+
 
 ---
 # Appendix
