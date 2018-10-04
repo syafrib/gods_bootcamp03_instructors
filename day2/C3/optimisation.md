@@ -8,6 +8,15 @@
 We want to find $a$ and $b$ which minimize the sum square errors $J$ which is given by
 $$ J(a,b) =\frac{1}{2} \sum_{i=1}^{n} (y_i-(ax_i+b))^2$$
 
+---
+# How does it help you 
+
+- Machine Learning problem is in essence an "optimization" problem 
+- It helps you to understand the meaning of different parameters in the standard library
+- It helps you to run diagnostic of your model 
+
+*Note: Understand the concept rather than remember the line-by-line codes.*
+
 --- 
 # The build-up
 
